@@ -1,0 +1,42 @@
+_repo: Four-Plays-of-Aeschylus_8714
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Morshead, E. D. A. (Edmund Doidge Anderson)
+    alias: Morshead, Edmund Doidge Anderson
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '4895'
+    url: http://www.gutenberg.org/2009/agents/4895
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αἰσχύλος
+    - Αισχύλος
+    - Aischylos
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: The suppliant maidens.--The Persians.--The seven against Thebes.--Prometheus
+  bound.
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeschylus -- Translations into English'
+- !lcsh 'Mythology, Greek -- Drama'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: "The suppliant maidens\r\nThe Persians\r\nThe seven against Thebes\r\
+  \nThe Prometheus bound."
+title: Four Plays of Aeschylus
+url: http://www.gutenberg.org/ebooks/8714
